@@ -14,5 +14,14 @@ public class Main {
         double doubleNumber = 6.0;
         char charChar = 'c';
         boolean booleanValue = false;
+
+        System.out.println("Byte Number is: " + byteNumber);
+        System.out.println("Short Number is: " + shortNumber);
+        System.out.println("Int Number is: " + intNumber);
+        System.out.println("Long Number is: " + longNumber);
+        System.out.println("Float Number is: " + floatNumber);
+        System.out.println("Double Number is: " + doubleNumber);
+        System.out.println("Char is: " + charChar);
+        System.out.println("Boolean is: " + booleanValue);
     }
 }
